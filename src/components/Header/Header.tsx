@@ -12,7 +12,7 @@ const Header: React.FC = () => {
 
   return (
     <HeaderContainer>
-      <Title>SkyCheck</Title>
+      <Title>SkyCheck </Title>
       <HeaderIconsContainer>
       {/*<Subtitle>Find the warmest spot in your neighborhood.</Subtitle>*/}
       </HeaderIconsContainer>
